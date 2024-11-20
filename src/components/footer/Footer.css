@@ -1,0 +1,112 @@
+.footer {
+    width: 100% !important;
+    bottom: 0;
+    background-color:  rgb(247, 246, 251);
+    min-height: 190px;
+    padding: 80PX 80px 80px 80px;
+    color: #000000;
+}
+
+.footer-content {
+    display: flex;
+    gap: 150px;
+}
+
+.connect {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.connect img {
+    height: 30px;
+    width: 130px;
+    margin-left: 32px;
+}
+
+.social_Media_Icons{
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+    gap: 5px;
+    margin-left: 300px;
+    cursor: pointer;
+    
+}
+
+.social_Media_Icons a {
+    text-decoration: none;
+}
+
+.copyright {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin: 90px 0 0 0;
+    font-size: 12px;
+    color: #000000;
+    
+}
+
+.A_propos {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 180px;
+    
+}
+
+.text_a_propos {
+    font-weight: bold;
+    text-align: center;
+
+}
+.a_propos-content{
+    display: flex;
+    align-items: center;
+}
+.a_propos-content p {
+    font-size: 15px;
+    text-align: left;
+   
+}
+
+
+
+.Aide {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 180px;
+    
+}
+
+.text_aide {
+    font-weight: bold;
+    text-align: center;
+
+}
+.aide-content{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.ContactUs {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.contactname {
+    font-weight: bold;
+    
+}
+
+.contact12 {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+}
