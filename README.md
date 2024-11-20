@@ -101,5 +101,6 @@ Ce projet dans son état actuel a été concu par :
 - DONFACK HILARY
 - NFANGAM AMIRAH
 - TCHATCHUEM DJOUM
+- NDIFFO MANUELLA
 - ALETANOU LOIC
 - DEUTCHOUA MBOH
