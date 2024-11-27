@@ -1,5 +1,5 @@
 import React from "react";
-import "./footer.css";
+import "./Footer.css";
 import Image from "next/image";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
